@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(name: "YooKassaPayments",
                       url: "https://github.com/sokolyasnyi/YooKassaPaymentsBinary/releases/download/v7.2.0/YooKassaPayments.xcframework.zip",
-                      checksum: "f0c89dfa3a6ef5611012767545795d8b9e90f521b00f7057800b41d2dd38d8bf"),
+                      checksum: "66e43b0bb9faf158be28478571e8c31913294b2b7560902bbe51ebd583bcb200"),
         .target(
             name: "YooKassaPaymentsBinary"),
         .testTarget(
